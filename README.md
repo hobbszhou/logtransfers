@@ -1,0 +1,2 @@
+# logtranfers
+和logaggent搭配使用的一个项目，收集logaggent存储到kafka中的日志，放到elasticsearch中
